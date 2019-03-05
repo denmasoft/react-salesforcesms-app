@@ -1,0 +1,16 @@
+{
+  "name": "Salesforce SMS",
+  "short_name": "Salesforce SMS",
+  "icons": [{
+        "src": "images/logo-32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      }, {
+        "src": "images/logo-256x256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }],
+  "start_url": "/?homescreen=1",
+  "display": "standalone",
+  "background_color": "#2196F3"
+}
